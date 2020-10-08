@@ -20,7 +20,7 @@ public class ArrayExample {
     }
 
 
-    
+
 
     // This method takes an int array as input and returns a string of the contents of the array
     public static String printArr(int[] arr){
@@ -28,13 +28,15 @@ public class ArrayExample {
         // Initialize an ampty String
         String s = "";
         
-        // Add all but last element from array to String s, followed by a comma and a space
-        for (int i = 0; i < arr.length-1; i++) {
-            s += arr[i] + ", ";
+        // Adds elements from intArray into String s
+        for (int i = 0; i < arr.length; i++) {
+            s += arr[i];
+
+            // This adds a comma and space to seperate the elements in the string
+            if(i<arr.length-1){
+                s += ", ";
+            }
         }
-        
-        // Add final array element to String s (not followed by a comma or space)
-        s += arr[arr.length-1];
 
         // Returns String s back to wherever this method was called from
         return s;

@@ -1,5 +1,5 @@
-Intro Java slides: https://titus.techtalentsouth.com/mod/url/view.php?id=35929
+Java Control Flow slides: https://titus.techtalentsouth.com/mod/url/view.php?id=35934
 
-Java Types, Variables, & Branching slides: https://titus.techtalentsouth.com/mod/url/view.php?id=35930
+George's Notes: https://github.com/GpGardner/FTCI_Notes/tree/master/javaControlFlow
 
-Todays GitHub notes: https://github.com/GpGardner/FTCI_Notes/tree/master/javaIntronotes
+More about arrays in Java: https://www.programiz.com/java-programming/arrays

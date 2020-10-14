@@ -1,5 +1,17 @@
-Java Control Flow slides: https://titus.techtalentsouth.com/mod/url/view.php?id=35934
+Alec's HW from GitHub: https://github.com/alecdalelio/pets
 
-George's Notes: https://github.com/GpGardner/FTCI_Notes/tree/master/javaControlFlow
+Matthew's HW from GitHub: https://github.com/mattrorvick/Java-Classes-Objects
 
-More about arrays in Java: https://www.programiz.com/java-programming/arrays
+______________________________________________________________________________________
+
+Array overview: https://www.geeksforgeeks.org/arrays-in-java/
+
+ArrayList overview: https://www.geeksforgeeks.org/arraylist-in-java/?ref=lbp
+
+JavaDocs ArrayList: https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
+
+Array vs. ArrayList: https://www.geeksforgeeks.org/array-vs-arraylist-in-java/
+
+Github Advanced Java examples: https://github.com/GpGardner/AdvJava
+
+JavaDocs HashMap: https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html

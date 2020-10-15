@@ -7,11 +7,3 @@ public class Player {
 	private int currentTotal;
 	private boolean bloke;
 }
-
-/*
-UML software to visualize your programs: https://creately.com/
-
-BlackJack GitHub:
-
-
-*/

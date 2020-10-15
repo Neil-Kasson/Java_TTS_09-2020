@@ -2,29 +2,18 @@ public class Card {
 
 	private int val;
 	private Suit suit;
-	private Color color;
 
 	public Card(int n, Suit s){
 		val = n;
 		suit = s;
-		if (suit.equals(Suit.SPADES) || suit.equals(Suit.CLUBS))
-			setColor(Color.BLACK);
-		else 
-			setColor(Color.RED);
 	}
 
-	private void setColor(Color color) {
-		this.color = color;
-	}
 
 	public Suit getSuit(){
 		return suit;
 	}
 	public int getVal(){
 		return val;
-	}
-	public Color getColor(){
-		return color;
 	}
 
 	public String toString(){
